@@ -99,10 +99,7 @@
                 .attr("class", "tooltip")
                 .style("opacity", 0);
 
-        var color = d3.scale.linear()
-                .domain([-1, 5])
-                .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
-                .interpolate(d3.interpolateHcl);
+        var color = d3.scale.category20c()
 
         var pack = d3.layout.pack()
                 .padding(2)
@@ -205,8 +202,8 @@
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#">Fund Name <span class="sr-only">(current)</span></a></li>
-                        <li><a href="#">Other</a></li>
-                        <li><a href="#">Other</a></li>
+                        <li><a href="/monthly.html">Monthly</a></li>
+                        <li><a href="/vendor.html">Vendor</a></li>
                     </ul>
                 </div>
             </div>

@@ -1,0 +1,49 @@
+[ {
+  "fiscal_month_number" : "1",
+  "sum_dollar_amount" : "6798992278.11"
+}
+, {
+  "fiscal_month_number" : "2",
+  "sum_dollar_amount" : "2393213744.8"
+}
+, {
+  "fiscal_month_number" : "3",
+  "sum_dollar_amount" : "2251042278.69"
+}
+, {
+  "fiscal_month_number" : "4",
+  "sum_dollar_amount" : "1891652014.93"
+}
+, {
+  "fiscal_month_number" : "5",
+  "sum_dollar_amount" : "1793527935.36"
+}
+, {
+  "fiscal_month_number" : "6",
+  "sum_dollar_amount" : "2162137119.63"
+}
+, {
+  "fiscal_month_number" : "7",
+  "sum_dollar_amount" : "2078281391.49"
+}
+, {
+  "fiscal_month_number" : "8",
+  "sum_dollar_amount" : "1797679967.77"
+}
+, {
+  "fiscal_month_number" : "9",
+  "sum_dollar_amount" : "2144352779.71"
+}
+, {
+  "fiscal_month_number" : "10",
+  "sum_dollar_amount" : "2060512367.03"
+}
+, {
+  "fiscal_month_number" : "11",
+  "sum_dollar_amount" : "2073922466.04"
+}
+, {
+  "fiscal_month_number" : "12",
+  "sum_dollar_amount" : "2450134149.69"
+}
+]
