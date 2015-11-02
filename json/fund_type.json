@@ -1,0 +1,29 @@
+[ {
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "14432795322.31"
+}
+, {
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "4936286635.25"
+}
+, {
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4086441061.33"
+}
+, {
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "3433102486.24"
+}
+, {
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "2620486498.15"
+}
+, {
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "385541565.57"
+}
+, {
+  "fund_type" : "DEBT SERVICE",
+  "sum_dollar_amount" : "794924.4"
+}
+]

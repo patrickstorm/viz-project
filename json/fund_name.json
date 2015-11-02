@@ -1,0 +1,2216 @@
+[ {
+  "fund_name" : "POWER REVENUE FUND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "8820306990.67"
+}
+, {
+  "fund_name" : "WATER REVENUE FUND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "2852494754.27"
+}
+, {
+  "fund_name" : "GENERAL FUND (GENERAL BUDGET)",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "2452009662.13"
+}
+, {
+  "fund_name" : "CITY EMPLOYEES RETIREMENT",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "1936631276.97"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 5 GENERAL P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "1691426128.35"
+}
+, {
+  "fund_name" : "HARBOR REVENUE",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "1590151603.02"
+}
+, {
+  "fund_name" : "IRS SEC501 EMPLOYEE BENEF TRUS",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "1269140909.22"
+}
+, {
+  "fund_name" : "DEFERRED COMP PLAN INVESTMENT",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "1049001919.25"
+}
+, {
+  "fund_name" : "INSURANCE TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "714597716.94"
+}
+, {
+  "fund_name" : "SOLID WASTE RESOURCES FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "482134352.9"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 5 SERVICE P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "466093000"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 2 GENERAL P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "425836402.31"
+}
+, {
+  "fund_name" : "PROPOSITION A LOCAL TRANSIT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "393868331.69"
+}
+, {
+  "fund_name" : "SEWER OPERATIONS & MAINTENANCE",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "323953706.22"
+}
+, {
+  "fund_name" : "BUILDING & SAFETY TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "262653361.49"
+}
+, {
+  "fund_name" : "SEWER CAPITAL FUND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "255585179.3"
+}
+, {
+  "fund_name" : "W & P ACTIVE EMPLOYEE HEALTHCARE BENEFITS FUND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "230223686.59"
+}
+, {
+  "fund_name" : "RECREATION AND PARKS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "192621644.24"
+}
+, {
+  "fund_name" : "MICLA LEASE REV COM PAPER NTES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "176674523.03"
+}
+, {
+  "fund_name" : "COMMUNITY DEVELOPMENT TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "166751294.69"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 3 GENERAL P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "160669413.61"
+}
+, {
+  "fund_name" : "TRANSPORTATION GRANTS FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "156366075.21"
+}
+, {
+  "fund_name" : "HOME INVESTMENT PARTSHIP PROGR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "142704806.85"
+}
+, {
+  "fund_name" : "WORKFORCE INVEST ACT TRS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "128990286.45"
+}
+, {
+  "fund_name" : "STORES REVOLVING",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "128474071.07"
+}
+, {
+  "fund_name" : "WW SYST COMM PAPER B CONST FND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "113192134.7"
+}
+, {
+  "fund_name" : "SPECIAL PARKING REVENUE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "104350497.54"
+}
+, {
+  "fund_name" : "GOB 2009 CLEAN WATER CLEANUP",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "102549814.2"
+}
+, {
+  "fund_name" : "CITY OF LA AFFORDABLE HOUSING",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "89162598.62"
+}
+, {
+  "fund_name" : "ARRA-NEIGHBORHOOD STABIL PROG2",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "88014474.98"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 4 GENERAL P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "79130650.31"
+}
+, {
+  "fund_name" : "WW SYST COMM PAPER A CONST FND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "78304209.77"
+}
+, {
+  "fund_name" : "SIXTH STREET VIADUCT IMPROVEMENT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "77295476.11"
+}
+, {
+  "fund_name" : "LOS ANGELES TOURISM MARKETING DISTRICT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "73934361.37"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 1 GENERAL P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "73091012.91"
+}
+, {
+  "fund_name" : "SUBVENTIONS AND GRANTS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "72437997.96"
+}
+, {
+  "fund_name" : "GEN WASTEWATER SYS CONSTR FUND",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "66797963.47"
+}
+, {
+  "fund_name" : "MEASURE R LOCAL RETURN FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "63636579.92"
+}
+, {
+  "fund_name" : "GREATER LOS ANGELES VISITORS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "59122642.66"
+}
+, {
+  "fund_name" : "BLDG & SAFETY PERMIT ENTERPRIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "58684731.14"
+}
+, {
+  "fund_name" : "AREA PLAN FOR THE AGING TIT 7",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "57353480.99"
+}
+, {
+  "fund_name" : "LIBRARY",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "56822018.93"
+}
+, {
+  "fund_name" : "CITYWIDE RECYCLING TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "50604099.35"
+}
+, {
+  "fund_name" : "HOUSING OPPOR FOR PERSON W/AID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "49693377.18"
+}
+, {
+  "fund_name" : "HIRING HALL TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "49150685.96"
+}
+, {
+  "fund_name" : "MUNICIPAL SPORTS ACCOUNT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "49111557.09"
+}
+, {
+  "fund_name" : "GOB 2011A CLEAN WATER CLEANUP",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "48334222.82"
+}
+, {
+  "fund_name" : "RECREATION & PARKS GRANT",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "48271729.47"
+}
+, {
+  "fund_name" : "FY09 UASI GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "47765475.07"
+}
+, {
+  "fund_name" : "FY10 UASI GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "46890898.05"
+}
+, {
+  "fund_name" : "ST LIGHTING MAINTENANCE ASSESS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "46734312.19"
+}
+, {
+  "fund_name" : "FY08 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "45845371.97"
+}
+, {
+  "fund_name" : "WASTEWATER SYS REV BD CONS/10A",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "45215357.23"
+}
+, {
+  "fund_name" : "GOB SERIES 2004A 911/P/F CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "44609155.09"
+}
+, {
+  "fund_name" : "SOLID WASTE RES RB2009A ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "41031977.05"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 6 GENERAL PENSION FD",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "40335448"
+}
+, {
+  "fund_name" : "PUBLIC WORKS TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "37469980.78"
+}
+, {
+  "fund_name" : "PROPOSITION C ANTIGRIDLOCK IMP",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "36539378.14"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 3 SERVICE P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "35009311.64"
+}
+, {
+  "fund_name" : "PROPOSITION K PROJECTS FUND",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "34516933.16"
+}
+, {
+  "fund_name" : "FY11 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "33273630.58"
+}
+, {
+  "fund_name" : "SPECIAL GAS TAX ST IMPROV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "33029383.77"
+}
+, {
+  "fund_name" : "WASTEWATER SYS REV BD CONS/10B",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "32835724.67"
+}
+, {
+  "fund_name" : "PARKING VIOLATION TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "28839028.3"
+}
+, {
+  "fund_name" : "FY12 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "24891867.8"
+}
+, {
+  "fund_name" : "MICLA REV BDS 2010 B ACQUISITI",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "24110523.25"
+}
+, {
+  "fund_name" : "DOWNTOWN CTR BUS IMPROV DISTR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "24055741.97"
+}
+, {
+  "fund_name" : "SP POLICE COMMUNIC/911 SYST TX",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "23398912.89"
+}
+, {
+  "fund_name" : "US DEPT OF JUSTICE ASSET FORFE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "23034393.88"
+}
+, {
+  "fund_name" : "FY13 UASI HOMELAND SECURITY GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "22286503.85"
+}
+, {
+  "fund_name" : "COMMUNITY SER BL GRANT TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "21153161.4"
+}
+, {
+  "fund_name" : "PENSION SAVINGS INVESTMENT FND",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "20983759.02"
+}
+, {
+  "fund_name" : "STORMWATER POLLUTION ABATE FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "19356611.23"
+}
+, {
+  "fund_name" : "SEISMIC BOND REIMB FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "18821397.55"
+}
+, {
+  "fund_name" : "FEDERAL EMERGENCY SHELTER GRNT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "18739418.43"
+}
+, {
+  "fund_name" : "UNIFIED PROGRAM TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "16948474.47"
+}
+, {
+  "fund_name" : "ARRA-MICLA CP SPECIAL FUNDNTES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "16706064.34"
+}
+, {
+  "fund_name" : "GOB SERIES 2002A ZOO IMP CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "16479375.94"
+}
+, {
+  "fund_name" : "FY07 PSIC HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "16299397.6"
+}
+, {
+  "fund_name" : "POLICE DEPT GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "15809625.93"
+}
+, {
+  "fund_name" : "CITY ATTY CONSUMER PROTEC PROC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "15731148.72"
+}
+, {
+  "fund_name" : "SYSTEMATIC CODE ENFORCEMNT FEE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "15143916.92"
+}
+, {
+  "fund_name" : "DOWNTOWN PROP OWNERS MGMT DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14859208.85"
+}
+, {
+  "fund_name" : "ATTORNEY CONFLICTS PANEL SP FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14805845.47"
+}
+, {
+  "fund_name" : "HOLLYWOOD ENTERTAINMENT BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14596146.05"
+}
+, {
+  "fund_name" : "TELECOM LIQ DMGE &LOST FR FEES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14498350.98"
+}
+, {
+  "fund_name" : "RECREATION AND PARKS GOLF SPE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14463353"
+}
+, {
+  "fund_name" : "GOB 2008A CLEAN WATER CLEANUP",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "13984541.83"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 6 SERVICE PENSION FD",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "13943330.93"
+}
+, {
+  "fund_name" : "SENIOR CITYRIDE PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "13865996"
+}
+, {
+  "fund_name" : "TX REV ANTICIP NOTE PROC",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "13245000"
+}
+, {
+  "fund_name" : "ARRA-HOMELESSNESS PREV & REHSE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "13169736.68"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 4 SERVICE P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "13169000"
+}
+, {
+  "fund_name" : "GENERAL FUND- VARIOUS PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "12360424.79"
+}
+, {
+  "fund_name" : "MATCHING CAMPAIGN FUND TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "12307527.64"
+}
+, {
+  "fund_name" : "NEIGHBORHOOD STABILIZATION PG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "12283133.61"
+}
+, {
+  "fund_name" : "INSURANCE PREMIUMS SPECIAL FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "11160557.24"
+}
+, {
+  "fund_name" : "DEPT OF NEIGHBORHOOD EMPOWERE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "10547411.3"
+}
+, {
+  "fund_name" : "PRINTING REVOLVING",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "10470277.56"
+}
+, {
+  "fund_name" : "NEIGHBORHOOD STABIL PROG3-WSRA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9951154.93"
+}
+, {
+  "fund_name" : "MEASURE R BUS OPERATIONS FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9795027"
+}
+, {
+  "fund_name" : "CONSTRUCTION SERVICES TRUST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9783077.98"
+}
+, {
+  "fund_name" : "SOLID WASTE RES RB2013A ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9707958.65"
+}
+, {
+  "fund_name" : "NATIONAL EMERGENCY GRANT MULTI-SECTOR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9364764.63"
+}
+, {
+  "fund_name" : "ENGINEERING SPECIAL SERVICE FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9306906.1"
+}
+, {
+  "fund_name" : "STATE AB1290 CITY FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9222947.86"
+}
+, {
+  "fund_name" : "ARRA-WORKFORCE INVESTMENT ACT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8957278.93"
+}
+, {
+  "fund_name" : "FY13 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8796736.27"
+}
+, {
+  "fund_name" : "LA DOWNTOWN INDUSTR BUS IMPROV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8519479.52"
+}
+, {
+  "fund_name" : "CENTRAL LA RECYCLING TRFR STAT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8481020.11"
+}
+, {
+  "fund_name" : "STATE HCD-IIG PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8426985.02"
+}
+, {
+  "fund_name" : "LA CONVENTION CENTER REVENUE",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "8420956.96"
+}
+, {
+  "fund_name" : "ARRA-NEIGHBORHOOD STABILIZATION PROGRAM 2",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "8217347.94"
+}
+, {
+  "fund_name" : "CALIF STATE ASSET FORFEITURE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7900110.11"
+}
+, {
+  "fund_name" : "ANIMAL STERILIZATION",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7683817.97"
+}
+, {
+  "fund_name" : "LOCAL TRANSPORTATION",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "7604358.37"
+}
+, {
+  "fund_name" : "PROPOSITION K BONDS MATCH FUND",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "7601556.2"
+}
+, {
+  "fund_name" : "GOB SERIES 2003A ANIM SH CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "7491312.25"
+}
+, {
+  "fund_name" : "ARRA-ENERGY EFFICIENCY CONSERV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7458443.35"
+}
+, {
+  "fund_name" : "DWP FLEXIBLE SPENDING ACCOUNTS (FSA)",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "7427730.42"
+}
+, {
+  "fund_name" : "TEMPORARY ASSISTANCE FOR NEEDY FAMILIES FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7337313.66"
+}
+, {
+  "fund_name" : "ARRA-COMMUNITY DEV BLOCK GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7318798.56"
+}
+, {
+  "fund_name" : "ARRA-JUSTICE ASSISTANCE GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7155015.83"
+}
+, {
+  "fund_name" : "SOUTH PARK BUSINESS IMPROV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7021509.76"
+}
+, {
+  "fund_name" : "GOB SERIES 2002A FIRE/PR CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "6962125.85"
+}
+, {
+  "fund_name" : "HOUSING PRODUCTION REVOLVING",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6901678.98"
+}
+, {
+  "fund_name" : "GOB SERIES 2006A 911/P/F CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "6690674.78"
+}
+, {
+  "fund_name" : "MICLA AO SERIES 2002F ACQUI FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6658190.27"
+}
+, {
+  "fund_name" : "WORKFORCE INNOVATION FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6655102.87"
+}
+, {
+  "fund_name" : "W & P EMPLOYEES' RETIREMENT",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "6468691.94"
+}
+, {
+  "fund_name" : "LAFD SPECIAL TRAINING FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6404796.38"
+}
+, {
+  "fund_name" : "LOW AND MODERATE INCOME HOUSING FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6241015.95"
+}
+, {
+  "fund_name" : "HISTORIC CORE BUS IMPROVE DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6236817.64"
+}
+, {
+  "fund_name" : "SUNSET & VINE BUSINESS IMPROV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5884676.77"
+}
+, {
+  "fund_name" : "LA CHINATOWN BUSINESS IMPR DIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5836140"
+}
+, {
+  "fund_name" : "MUNICIPAL HOUSING FINANCE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5674208.72"
+}
+, {
+  "fund_name" : "WESTWOOD BUSINESS IMPROV DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5669104.35"
+}
+, {
+  "fund_name" : "LAPD REVOLVING TRAINING FUND",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "5612842.78"
+}
+, {
+  "fund_name" : "ARTS DEVELOPMENT FEE TRUST FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5590139.51"
+}
+, {
+  "fund_name" : "SENIOR HUMAN SERVICES PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5540522.75"
+}
+, {
+  "fund_name" : "MICLA REV BDS 2009-D CONST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5448378.13"
+}
+, {
+  "fund_name" : "GANG REDUCTION & YOUTH DEVELOP",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5342328.09"
+}
+, {
+  "fund_name" : "WEST LA TRANSP IMPROV & MITIGA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5241213.58"
+}
+, {
+  "fund_name" : "EMERGENCY OPERATIONS FUND",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "5216101.97"
+}
+, {
+  "fund_name" : "FIGUEROA CORRIDOR BUS IMPROVE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5153166.9"
+}
+, {
+  "fund_name" : "CALHOME TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4946056"
+}
+, {
+  "fund_name" : "FY07 PSIC HOMELAND SECURITY GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4853634.09"
+}
+, {
+  "fund_name" : "FIRE DEPT GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4823093.41"
+}
+, {
+  "fund_name" : "GOB SERIES 2001A FIRE/PR CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "4431882.18"
+}
+, {
+  "fund_name" : "DEPT OF NEIGHBORHOOD EMPOWERE",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "4413356.42"
+}
+, {
+  "fund_name" : "GOB SERIES 2003A FIRE/PR CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "4365904.98"
+}
+, {
+  "fund_name" : "PROPOSITION K MAINTENANCE FUND",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "4361978.26"
+}
+, {
+  "fund_name" : "RENT STABILIZATION TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4346553.36"
+}
+, {
+  "fund_name" : "CITY ATTORNEY GRANTS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4316303.85"
+}
+, {
+  "fund_name" : "HOLLYWOOD MEDIA DP & BUS IMPRO",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4299224.21"
+}
+, {
+  "fund_name" : "HIST WATERFRONT SAN PEDRO BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4193330.17"
+}
+, {
+  "fund_name" : "COMPUTERIZED INFOR CTR FOR DIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "4073203.09"
+}
+, {
+  "fund_name" : "GOB SERIES 2002A 911/P/F CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "3957123.13"
+}
+, {
+  "fund_name" : "ARRA-EECBG FUND - LAHD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3899959.8"
+}
+, {
+  "fund_name" : "CENTURY CITY BUS IMPROV DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3878175.28"
+}
+, {
+  "fund_name" : "CENTURY CORRIDOR BUS IMPROVE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3753211.06"
+}
+, {
+  "fund_name" : "LIBRARY TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3582155.33"
+}
+, {
+  "fund_name" : "GOB SERIES 2005A FIRE/PARA CON",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "3578754.46"
+}
+, {
+  "fund_name" : "MISCELLANEOUS SOURCES FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3518014.59"
+}
+, {
+  "fund_name" : "ARRA-STATE ENERGY PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3490248.87"
+}
+, {
+  "fund_name" : "SO LA IND TRACT(GOODYEAR) BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3374893.59"
+}
+, {
+  "fund_name" : "SOLID WASTE RES RB2006A ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3260483.89"
+}
+, {
+  "fund_name" : "LAPD TRAIN & EVAL MGMT SYS II",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3206631.72"
+}
+, {
+  "fund_name" : "PLANNING CASE PROCESSING SPREV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3188079.79"
+}
+, {
+  "fund_name" : "LANDFILL CLOSURE & POSTCLOSURE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3080914.38"
+}
+, {
+  "fund_name" : "FY09 JUSTICE ASSISTANCE GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3069369.32"
+}
+, {
+  "fund_name" : "ARTS DISTRICT BUSINESS IMP DIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3036159.65"
+}
+, {
+  "fund_name" : "STATE HCD - DRI PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2900000"
+}
+, {
+  "fund_name" : "GOB SERIES 2006A ANIM SH CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "2876531.8"
+}
+, {
+  "fund_name" : "HEALTH INS COUNS ADV (HICAP)",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2864741"
+}
+, {
+  "fund_name" : "FY10 JUSTICE ASSISTANCE GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2838174.97"
+}
+, {
+  "fund_name" : "GOB SERIES 2006A FIRE/PARA CON",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "2826888.02"
+}
+, {
+  "fund_name" : "901 OLYMPIC NORTH HOTEL TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2817158.4"
+}
+, {
+  "fund_name" : "FY07 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2666899.02"
+}
+, {
+  "fund_name" : "USED OIL COLLECTION TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2624292.33"
+}
+, {
+  "fund_name" : "BU OF ENGR EQUIP & TRAINING TR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2613713.29"
+}
+, {
+  "fund_name" : "FIRE DEPT TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2407166.06"
+}
+, {
+  "fund_name" : "NORTH HOLLYWOOD TRANSIT BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2378337.19"
+}
+, {
+  "fund_name" : "REG CATASTROPHIC PREPARE GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2335920.17"
+}
+, {
+  "fund_name" : "TARGETED DESTIN AMBULANCE SERV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2328613.78"
+}
+, {
+  "fund_name" : "ENTERPRISE ZONE TAX CREDIT VOU",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2264262.5"
+}
+, {
+  "fund_name" : "WORKFORCE INNOVATION OPPORTUNITY ACT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2259145.13"
+}
+, {
+  "fund_name" : "RENTAL HOUSING PRODUCTION",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2252495.74"
+}
+, {
+  "fund_name" : "ARTS DISTRICT LOS ANGELES BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2224671.46"
+}
+, {
+  "fund_name" : "FY12 AND FY13 SECURING THE CIT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2222692.49"
+}
+, {
+  "fund_name" : "FY11 JUSTICE ASSISTANCE GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2216197.4"
+}
+, {
+  "fund_name" : "ALTERNATIVE FUEL PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2174040.32"
+}
+, {
+  "fund_name" : "ATSAC TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2159610.89"
+}
+, {
+  "fund_name" : "B2W 25% WIA DISLOCATED WORKER ADDITIONAL ASSISTANCE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2115815.13"
+}
+, {
+  "fund_name" : "COASTAL TRANSP CORRIDOR TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2108805.13"
+}
+, {
+  "fund_name" : "LANDSCAPNG & LT ASSES SER 2002",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "2098861.02"
+}
+, {
+  "fund_name" : "LEAD GRANT NINE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2081054.69"
+}
+, {
+  "fund_name" : "HUD CONNECTIONS GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2041929.89"
+}
+, {
+  "fund_name" : "INTEGRATED SOLID WASTE MGMT  D",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2041719"
+}
+, {
+  "fund_name" : "FY10 RCPGP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1993326.16"
+}
+, {
+  "fund_name" : "WILSHIRE CENTER BUS IMPRV DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1989616.92"
+}
+, {
+  "fund_name" : "LINCOLN HTS BUS & COMM BEN BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1961625.06"
+}
+, {
+  "fund_name" : "GOB SERIES 2003A 911/P/F CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1938183.23"
+}
+, {
+  "fund_name" : "REPAIR & DEMOLITION",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1920045.78"
+}
+, {
+  "fund_name" : "BRIDGE IMPROVEMENT PROGRAM CASH FLOW FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1899848.93"
+}
+, {
+  "fund_name" : "MOBILE SOURCE AIR POLLUT REDUC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1886096.26"
+}
+, {
+  "fund_name" : "MICLA SER2006A POLICE FAC CONS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1883914.44"
+}
+, {
+  "fund_name" : "COMMUNITY CHALLENGE PLANNING GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1870058.13"
+}
+, {
+  "fund_name" : "LEAD GRANT FUNDS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1870032.33"
+}
+, {
+  "fund_name" : "GOB SERIES 2001A ZOO IMP CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1771245.46"
+}
+, {
+  "fund_name" : "CULTURAL AFFAIRS GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1713845.43"
+}
+, {
+  "fund_name" : "CITY PLANNING GRANTS TRUST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1709494.1"
+}
+, {
+  "fund_name" : "FY09 ARREST POLICIES GRANT FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1671861.32"
+}
+, {
+  "fund_name" : "LEAD GRANT 10",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1617276.62"
+}
+, {
+  "fund_name" : "CPUC - GAS CO.",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1615655.34"
+}
+, {
+  "fund_name" : "FY2012 JUSTICE ASSISTANCE GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1554192.38"
+}
+, {
+  "fund_name" : "STUDIO CITY BUS IMPROV DISTRIC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1474256.34"
+}
+, {
+  "fund_name" : "GOB SER 95A P.W. PROJ CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1456064.34"
+}
+, {
+  "fund_name" : "PARK & REC SITES & FACILITIES",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1453284.32"
+}
+, {
+  "fund_name" : "BEGIN GRANT PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1437143.32"
+}
+, {
+  "fund_name" : "SEWER CONSTRUCTION&MAINTENANCE",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "1410633.08"
+}
+, {
+  "fund_name" : "FY09 RCPGP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1406376.43"
+}
+, {
+  "fund_name" : "LOCAL HOUSING TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1353188"
+}
+, {
+  "fund_name" : "LOPEZ CANYON COMMU AMENITIES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1224665.94"
+}
+, {
+  "fund_name" : "OMBUDSMAN INITIATIVE PROGRAM F",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1219810"
+}
+, {
+  "fund_name" : "ZOO ENTERPRISE TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1217983.57"
+}
+, {
+  "fund_name" : "NARCOTICS ANALYSIS LABORATORY",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1214298.32"
+}
+, {
+  "fund_name" : "SIDEWALK & TREE MAINT ASSESS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1188849.05"
+}
+, {
+  "fund_name" : "HIGHLAND PARK BUSINESS IMPROV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1182849.22"
+}
+, {
+  "fund_name" : "WESTCHESTER BUS IMPROV DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1180459.08"
+}
+, {
+  "fund_name" : "MICLA REV BDS 2010-C CONST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1140129.59"
+}
+, {
+  "fund_name" : "LANDSCAPNG & LT ASSES SER 2000",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1088296.71"
+}
+, {
+  "fund_name" : "LIBRARY SERVICE TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1064648.92"
+}
+, {
+  "fund_name" : "LAFD REVOLVING TRAINING FUND",
+  "fund_type" : "GENERAL FUND",
+  "sum_dollar_amount" : "1045186.22"
+}
+, {
+  "fund_name" : "PANORAMA CITY BUS IMPROV DIST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "984790.09"
+}
+, {
+  "fund_name" : "WIA 25% NEW DIRECTION FOR THE WORKFORCE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "984354.52"
+}
+, {
+  "fund_name" : "EWDD SUMMER YOUTH PROGRAM-OTHER SOURCES FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "981846.3"
+}
+, {
+  "fund_name" : "CANOGA PARK BUS IMPROV DISTRIC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "967246.08"
+}
+, {
+  "fund_name" : "ELECTRONIC ANIMAL ID DEVICE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "954121.37"
+}
+, {
+  "fund_name" : "CDD-EDI/BEDI GRANTS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "950317.13"
+}
+, {
+  "fund_name" : "HOMELAND SECURITY ASSISTANCE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "944099.56"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 2 SERVICE P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "943660.22"
+}
+, {
+  "fund_name" : "ENVIRONMENTAL AFFAIRS TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "924189.1"
+}
+, {
+  "fund_name" : "LITTLE TOKYO BID FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "906170.18"
+}
+, {
+  "fund_name" : "FY14 UASI HOMELAND SECURITY GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "899796.27"
+}
+, {
+  "fund_name" : "GOB SER 95A POLICE FAC CONSTRU",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "850752.96"
+}
+, {
+  "fund_name" : "2010 CSGP NEWTON GRYD ZONE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "835217.25"
+}
+, {
+  "fund_name" : "2010 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "835142"
+}
+, {
+  "fund_name" : "HEALTHY HOMES 1",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "825388.18"
+}
+, {
+  "fund_name" : "EAST HOLLYWOOD PROPERTY BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "798791.75"
+}
+, {
+  "fund_name" : "BRIBONDED DEBT INDEMNI FUND",
+  "fund_type" : "DEBT SERVICE",
+  "sum_dollar_amount" : "794924.4"
+}
+, {
+  "fund_name" : "ARTS AND CULTURAL FACIL & SERV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "750304.38"
+}
+, {
+  "fund_name" : "2014 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "723927.17"
+}
+, {
+  "fund_name" : "MELROSE BUSINESS IMPROVEMENT DISTRICT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "721428.89"
+}
+, {
+  "fund_name" : "CAPITAL PROJECTS BD RESERVE FD",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "708810.96"
+}
+, {
+  "fund_name" : "2013 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "699614.44"
+}
+, {
+  "fund_name" : "DEPT TRANSPORTATION TRUST",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "676698.84"
+}
+, {
+  "fund_name" : "G LEIMERT PK V/CRENSHAW BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "675845.96"
+}
+, {
+  "fund_name" : "FY11 RCPGP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "654184.92"
+}
+, {
+  "fund_name" : "CRENSHAW / MID-CITY CORRIDORS PROP 1C-CRA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "647742.3"
+}
+, {
+  "fund_name" : "U.S. TREASURY ASSET FORFEITURE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "623903.33"
+}
+, {
+  "fund_name" : "TRANSP REGULATION &ENFORCEMENT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "623756.43"
+}
+, {
+  "fund_name" : "TITLE VII OLDER AMERICANS ACT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "619328"
+}
+, {
+  "fund_name" : "ENERGY CONSERVATION LOAN PROGR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "617508.29"
+}
+, {
+  "fund_name" : "CALIFORNIA DISABILITY EMPLOYMENT INITIATIVE PROJECT (CDEI)",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "594939.88"
+}
+, {
+  "fund_name" : "REV CERT OF PARTI SANIT EQ ACQ",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "557737.89"
+}
+, {
+  "fund_name" : "B.L.Q. - PICO BLVD BID FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "547993.6"
+}
+, {
+  "fund_name" : "FY12 COMMUNITY-BASED VIOLENCE PREVENTION DEMONSTRATION PROG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "546025"
+}
+, {
+  "fund_name" : "CENTRAL CITY WEST HOUSING TRUS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "508106"
+}
+, {
+  "fund_name" : "ARRA-ENERGY COMM RECOVERY ACT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "507141.49"
+}
+, {
+  "fund_name" : "SPECIAL REVENUE FUND - CRA-",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "500000"
+}
+, {
+  "fund_name" : "GOB SER94A POLICE FAC CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "499450.3"
+}
+, {
+  "fund_name" : "HOUSEHOLD HAZARDOUS WASTE TRUS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "499064.52"
+}
+, {
+  "fund_name" : "UDAG REVENUE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "489029.1"
+}
+, {
+  "fund_name" : "SHERMAN OAKS BUS IMPR DISTR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "487129.12"
+}
+, {
+  "fund_name" : "GRANADA HILLS PROP & BUS IMPRO",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "485058.51"
+}
+, {
+  "fund_name" : "ENCINO BUSINESS IMPROVEMENT DI",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "484849.58"
+}
+, {
+  "fund_name" : "2009 BOYLE HEIGHTS GRYD ZONE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "478755.6"
+}
+, {
+  "fund_name" : "LARCHMONT VILLAGE BUS IMPROVE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "477745.35"
+}
+, {
+  "fund_name" : "2011 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "447353.18"
+}
+, {
+  "fund_name" : "HOUSEHOLD HAZARDOUS WASTE SP",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "429484.99"
+}
+, {
+  "fund_name" : "2012 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "425553.59"
+}
+, {
+  "fund_name" : "WINDSOR SQUARE LIGHTING DISTRI",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "423747.15"
+}
+, {
+  "fund_name" : "FY10 LPDM GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "422867.07"
+}
+, {
+  "fund_name" : "CULTURAL AFFAIRS DEPT TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "405634.6"
+}
+, {
+  "fund_name" : "PROPOSITION 1C TRANSIT ORIENTED DEVELOPMENT (TOD)",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "392441"
+}
+, {
+  "fund_name" : "MULTI-FAMILY BULKY ITEM FEE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "388952.39"
+}
+, {
+  "fund_name" : "ANIMAL WELFARE TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "381266.41"
+}
+, {
+  "fund_name" : "WARNER CTR TRANS IMPROVE TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "365610.66"
+}
+, {
+  "fund_name" : "LINCOLN HEIGHTS INDUS ZONE BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "364263.59"
+}
+, {
+  "fund_name" : "HCIDLA SMALL GRANTS AND AWARDS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "363764"
+}
+, {
+  "fund_name" : "POLICE FAC GOB SER93A CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "363429.39"
+}
+, {
+  "fund_name" : "GOB SER99B ZOO IMPR CONSTRUCTN",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "362522.95"
+}
+, {
+  "fund_name" : "STREET FURNITURE REVENUE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "362178.48"
+}
+, {
+  "fund_name" : "VENTURA/CAHUENGA CORRIDOR PLAN",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "360665.35"
+}
+, {
+  "fund_name" : "SECTION 108 LOAN GUARANTEE PRO",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "321608.91"
+}
+, {
+  "fund_name" : "LANDSCAPNG & LT ASSES SER 2001",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "310522.1"
+}
+, {
+  "fund_name" : "2013 SECOND CHANCE ACT JUVENILE REENTRY GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "309757.19"
+}
+, {
+  "fund_name" : "PROJECT RESTORE TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "307484.55"
+}
+, {
+  "fund_name" : "ARRA-LACCD WIA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "301597.61"
+}
+, {
+  "fund_name" : "FY10 EARMARK CLEAR HOLLENBECK",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "291970.9"
+}
+, {
+  "fund_name" : "BRENTWOOD WILLAGE BID FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "290410.04"
+}
+, {
+  "fund_name" : "EARTHQUAKE SEC108 LOAN PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "280702.29"
+}
+, {
+  "fund_name" : "CITY PLANNING SYSTEM DEVE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "272770.32"
+}
+, {
+  "fund_name" : "BUSINESS IMPROVEMENT TRUST FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "270135.67"
+}
+, {
+  "fund_name" : "EL PUEBLO DE LA HISTOR MONUMEN",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "269025.59"
+}
+, {
+  "fund_name" : "LEGAL FEES REIMBURSEMENT SPECIAL FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "266988.16"
+}
+, {
+  "fund_name" : "FY2013 JUSTICE ASSISTANCE GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "263278.98"
+}
+, {
+  "fund_name" : "LIBRARY EDUCATION TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "255166.93"
+}
+, {
+  "fund_name" : "SANIT EQ CHARGE RB2005A ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "252865.44"
+}
+, {
+  "fund_name" : "FINANCE OF MAYORS TRANSITION",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "250000"
+}
+, {
+  "fund_name" : "TR OF FLOOR AREA RATIO PUB BEN",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "250000"
+}
+, {
+  "fund_name" : "LOS FELIZ VIL BUS IMPR DISTR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "239001.45"
+}
+, {
+  "fund_name" : "ARRA-COMMUNITY SVC BLOCK GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "236732.67"
+}
+, {
+  "fund_name" : "CHATSWORTH BUSINESS IMPROV DIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "235886.69"
+}
+, {
+  "fund_name" : "NEIGHBORHOOD TRAFFIC MGMT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "229555.46"
+}
+, {
+  "fund_name" : "FIRE SAFETY GOB SER93A CONSTRU",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "225193.2"
+}
+, {
+  "fund_name" : "VENICE AREA SURP REAL PROPERTY",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "223562.55"
+}
+, {
+  "fund_name" : "LOCAL ENFORCE AGENCY LANDFILL",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "217811.03"
+}
+, {
+  "fund_name" : "FY11 JUVENILE ACCOUNT BLOCK GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "208109.73"
+}
+, {
+  "fund_name" : "LOCAL LAW ENFORC BLOCK GRNT TR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "207293.49"
+}
+, {
+  "fund_name" : "FY09 CSGP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "205671.13"
+}
+, {
+  "fund_name" : "TARZANA BUSINESS IMPROVE DISTR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "204881.39"
+}
+, {
+  "fund_name" : "DOL FEDERAL EARMARK",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "196574"
+}
+, {
+  "fund_name" : "COUNCIL DIST11 REAL PROP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "190000"
+}
+, {
+  "fund_name" : "COUNC DIST8 PUB BENEFIT TR FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "184190.11"
+}
+, {
+  "fund_name" : "CITY ATTY FORFEITED ASSETS TRU",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "181825.82"
+}
+, {
+  "fund_name" : "SANIT EQ CHARGE RB2003A ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "171615.87"
+}
+, {
+  "fund_name" : "ARRA-LA COUNTY TANF SUMMER PRO",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "169847.49"
+}
+, {
+  "fund_name" : "WILMINGTON COMMERCIAL BID",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "168165.61"
+}
+, {
+  "fund_name" : "CDD SECTION 108 LOAN GUARANTEE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "164879.23"
+}
+, {
+  "fund_name" : "FUND FOR SENIOR SERVICES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "160069"
+}
+, {
+  "fund_name" : "FY12 AND FY13 SECURING THE CITIES GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "160008.2"
+}
+, {
+  "fund_name" : "SUNSHINE CYN COMMUNI AMENITIES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "150586.24"
+}
+, {
+  "fund_name" : "GOB SER94A SEISMIC IMP PW CONS",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "147303"
+}
+, {
+  "fund_name" : "DEFERRED COMPENSATN PLAN TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "142350.48"
+}
+, {
+  "fund_name" : "NEW START CDCR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "139948"
+}
+, {
+  "fund_name" : "CD 13 PUBLIC BENEFIT TRUST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "136710"
+}
+, {
+  "fund_name" : "COUNC DIST10 PUB BENEFIT TR FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "135880"
+}
+, {
+  "fund_name" : "POLICE FAC GOB SER92A CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "134694.72"
+}
+, {
+  "fund_name" : "LOS ANGELES REGIONAL AGENCY",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "134326.95"
+}
+, {
+  "fund_name" : "GOB SER93A SEISMIC IMP CONSTRU",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "133809.31"
+}
+, {
+  "fund_name" : "WILTON DRIVE AND RIDGEWOOD PLA",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "123205.66"
+}
+, {
+  "fund_name" : "BRADLEY LANDFILL COMM TRUST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "122081.73"
+}
+, {
+  "fund_name" : "GOB SERIES 2002A ANIM SH CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "118058.96"
+}
+, {
+  "fund_name" : "ST DAMAGE RESTORATION FEE SPEC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "108980.95"
+}
+, {
+  "fund_name" : "POLICE FACILITIES GOB CITY OF",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "108116.13"
+}
+, {
+  "fund_name" : "CDD - GAS CO. - CPUC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "106980"
+}
+, {
+  "fund_name" : "FY10 JUVENILE ACCOUNT BLOCK GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "103548"
+}
+, {
+  "fund_name" : "SHSGP 10 GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "102663.13"
+}
+, {
+  "fund_name" : "COUNCIL DIST 4 REAL PROP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "100000"
+}
+, {
+  "fund_name" : "GOB 2006A CLEAN WATER CLEANUP",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "95899.44"
+}
+, {
+  "fund_name" : "SANIT EQ CHARGE RB2003B ACQUIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "95754.72"
+}
+, {
+  "fund_name" : "GREEN RETROFIT PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "93997.75"
+}
+, {
+  "fund_name" : "MINORITY BUSINESSDEV MBDA/MBOC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "88531.86"
+}
+, {
+  "fund_name" : "PROPOSITION 40 PER CAPITA TRUS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "86108"
+}
+, {
+  "fund_name" : "INDUSTRIAL DEVELOPMENT AUTHORI",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "78403.91"
+}
+, {
+  "fund_name" : "PLANNING LONG-RANGE PLAN SPREV",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "75019.05"
+}
+, {
+  "fund_name" : "PROPOSITION K ADMINISTRATION F",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "68004.55"
+}
+, {
+  "fund_name" : "BRD-HUMAN REL COMISIONER TR FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "65047.8"
+}
+, {
+  "fund_name" : "BLACK MARKET CIGAR PROSEC TR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "59064.88"
+}
+, {
+  "fund_name" : "SHSGP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "55000"
+}
+, {
+  "fund_name" : "MBDA MINORITY BUSINESS CENTER LOS ANGELES",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "54971.54"
+}
+, {
+  "fund_name" : "OTHER PROGRAMS FOR THE AGING",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "54417"
+}
+, {
+  "fund_name" : "GOB SERIES 2001A ANIM SH CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "52601.52"
+}
+, {
+  "fund_name" : "E BERNANI SCHOLARSHIP TRUST FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "50000"
+}
+, {
+  "fund_name" : "VERMONT/SNAP PARKS FIRST TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "49926.41"
+}
+, {
+  "fund_name" : "FY14 UASI HOMELAND SECURITY GR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "49645.71"
+}
+, {
+  "fund_name" : "BRD COMM-STATUS OF WOMEN TR FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "45839.9"
+}
+, {
+  "fund_name" : "PERMIT PARKING PROG REV FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "45331.39"
+}
+, {
+  "fund_name" : "SYLMAR PROPERTY BUS IMPROV DIS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "43786.11"
+}
+, {
+  "fund_name" : "STANDARDS & TRAINNG FOR CORREC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "42678.51"
+}
+, {
+  "fund_name" : "HIGH RISK/HIGH NEED SERVICES PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "39977.35"
+}
+, {
+  "fund_name" : "ARRA-BTOP PUBLIC COMPUTER CTR",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "38310.99"
+}
+, {
+  "fund_name" : "COUNCIL DIST15 REAL PROP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "36600"
+}
+, {
+  "fund_name" : "OTTOMAN ST ( NEAR ARLETA AVE) LIGHTING DISTRICT",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "36013.03"
+}
+, {
+  "fund_name" : "MORTGAGE CREDIT CERTIFICAT FEE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "32708.36"
+}
+, {
+  "fund_name" : "POLICE DEPARTMENT TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "31048.71"
+}
+, {
+  "fund_name" : "STREET BANNERS REVENUE TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "31000"
+}
+, {
+  "fund_name" : "FY08 CA GANG REDUCTION PREV PG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "30000"
+}
+, {
+  "fund_name" : "COUNCIL DIST10 REAL PROP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "29900"
+}
+, {
+  "fund_name" : "FY10 SUMMER NGT LGT GLASSELL P",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "29304.33"
+}
+, {
+  "fund_name" : "FY10 DART CONGRESSIONAL SELECT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "28967.34"
+}
+, {
+  "fund_name" : "ARRA-RECOVERY ZONE FAC BDS DEP",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "24785"
+}
+, {
+  "fund_name" : "GOB SERIES 2001A LIBRARY CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "24213.39"
+}
+, {
+  "fund_name" : "TRANSPORTATION REVIEW FEE FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "21050.53"
+}
+, {
+  "fund_name" : "GEN OBLIG BDS ELEC89 POL-CONST",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "20697.13"
+}
+, {
+  "fund_name" : "EL PUEBLO CULTURAL IMPROV TRUS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "20246.57"
+}
+, {
+  "fund_name" : "MICLA SER2008 CAP EQPT ACCT FD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "19263.47"
+}
+, {
+  "fund_name" : "ARRA-TEEN & RETAIL EDUC TABACO",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "19029.94"
+}
+, {
+  "fund_name" : "OFFICE OF TRAFFIC SAFETY PROG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "17035.38"
+}
+, {
+  "fund_name" : "FY 13 ABUSE IN LATER LIFE PROGRAM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "16610.48"
+}
+, {
+  "fund_name" : "MAYORS OFF FOR HANDICAP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "15967.2"
+}
+, {
+  "fund_name" : "LOW INCOME HOUSING TAX CREDIT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "15041.65"
+}
+, {
+  "fund_name" : "GOB SER 2000A LIB FAC CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "14634.85"
+}
+, {
+  "fund_name" : "CITY EMPLOYEES RIDESHARING FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "14023.59"
+}
+, {
+  "fund_name" : "VOLUNTEER TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "13898.13"
+}
+, {
+  "fund_name" : "IMPROVEMENT ASSESS REVOLV TRST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "12546.11"
+}
+, {
+  "fund_name" : "HIGH RISK/HIGH NEED SERVICES P",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "11638.87"
+}
+, {
+  "fund_name" : "FORECLOSURE REGISTRY PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "11565"
+}
+, {
+  "fund_name" : "TARGETING VIOLENT CRIME INITIA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9472.02"
+}
+, {
+  "fund_name" : "CENTRAL LA TRFR STATION COMM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "9457.39"
+}
+, {
+  "fund_name" : "FIRE & POLICE TIER 1 SERVICE P",
+  "fund_type" : "PENSION TRUST",
+  "sum_dollar_amount" : "8000"
+}
+, {
+  "fund_name" : "INTELLECTUAL PROPERTY FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7830"
+}
+, {
+  "fund_name" : "FY08 BOYLE HEIGHTS/HOLLENBECK",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7556.61"
+}
+, {
+  "fund_name" : "CLARTS COMMUNITY AMENITIES TRUST FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "7200"
+}
+, {
+  "fund_name" : "ALLEY NW JEFFERSON BL NR RANDA",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "6777.18"
+}
+, {
+  "fund_name" : "W & P EMPLOYEES' DISABILITY",
+  "fund_type" : "ENTERPRISE",
+  "sum_dollar_amount" : "6000"
+}
+, {
+  "fund_name" : "FURTHERANCE OF INT EARTHQ CONF",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5530.25"
+}
+, {
+  "fund_name" : "LINNIE CANAL CT IMP DIST FD",
+  "fund_type" : "AGENCY",
+  "sum_dollar_amount" : "5460.6"
+}
+, {
+  "fund_name" : "RENTAL REHAB PROGRAM FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5402.25"
+}
+, {
+  "fund_name" : "LAHD SMALL GRANTS & AWARDS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "5372"
+}
+, {
+  "fund_name" : "COUNCIL DIST 1 REAL PROP TRUST",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3974.27"
+}
+, {
+  "fund_name" : "2013 SECOND CHANCE ACT JUVENIL",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3906.21"
+}
+, {
+  "fund_name" : "FY11 OJJDP SECOND CHANCE ACT P",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3748.84"
+}
+, {
+  "fund_name" : "CENTURY CITY NEIGHBOR TRAFFIC",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3595.23"
+}
+, {
+  "fund_name" : "RE DOMESTIC VIOLENCE TRUST FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3496.63"
+}
+, {
+  "fund_name" : "2009 CALGRIP GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3276.26"
+}
+, {
+  "fund_name" : "PROTECTIVE SECURITY CTR GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3202.96"
+}
+, {
+  "fund_name" : "LOPEZ CANYON LANDFILL CLOSURE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "3147.46"
+}
+, {
+  "fund_name" : "TRAFFIC SAFETY EDUCATION PROGM",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2228.52"
+}
+, {
+  "fund_name" : "RESIDENTIAL PROPERTY MAINT FND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "2176.33"
+}
+, {
+  "fund_name" : "GOB SER 95A SEISMIC IMP REC&PK",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "1862.88"
+}
+, {
+  "fund_name" : "FY12 COMMUNITY-BASED VIOLENCE",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1579.69"
+}
+, {
+  "fund_name" : "LACMTA GRANT PROJECTS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1555"
+}
+, {
+  "fund_name" : "FY2012 JUSTICE ASSISTANCE GRAN",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1427.77"
+}
+, {
+  "fund_name" : "GRAFFITI TECHNOLOGY & RECOVERY",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1200"
+}
+, {
+  "fund_name" : "FY08 EARMARK CLEAR HOLLENBECK",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "1056.46"
+}
+, {
+  "fund_name" : "FY08 CEP-PACOIMA/FOOTHILL GRYD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "894.49"
+}
+, {
+  "fund_name" : "JUSTICE ASSISTANCE GRANT FUND",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "841.8"
+}
+, {
+  "fund_name" : "GANG PREVENTION COORDINATION",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "755.98"
+}
+, {
+  "fund_name" : "DEPT OF EDUCATION - YOUTH PROG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "400"
+}
+, {
+  "fund_name" : "FY 13 ABUSE IN LATER LIFE PROG",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "358.29"
+}
+, {
+  "fund_name" : "COMMUNITY BASED SER PROGAB2800",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "325"
+}
+, {
+  "fund_name" : "MBDA MINORITY BUSINESS CENTER",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "288.02"
+}
+, {
+  "fund_name" : "FY07-08 EARMARK CLEAR FOOTHILL",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "170.09"
+}
+, {
+  "fund_name" : "GEN OBLIG BDS SER90-B REC & PK",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "168.52"
+}
+, {
+  "fund_name" : "PREFERENTIAL PARKING DISTRICTS",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "124.5"
+}
+, {
+  "fund_name" : "FY06 RAMONA GARDENS GRYD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "82.41"
+}
+, {
+  "fund_name" : "2010 CSGP SAN FERNANDO GRYD",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "62.08"
+}
+, {
+  "fund_name" : "FY11 OJJDP SECOND CHANCE ACT PLANNING GRANT",
+  "fund_type" : "SPECIAL REVENUE",
+  "sum_dollar_amount" : "60.94"
+}
+, {
+  "fund_name" : "GEN OBLIG BDS SER90-B PUB WORK",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "15.74"
+}
+, {
+  "fund_name" : "GOB SER99B LIBRAR FAC CONSTRUC",
+  "fund_type" : "CAPITAL PROJECTS",
+  "sum_dollar_amount" : "5.7"
+}
+]
