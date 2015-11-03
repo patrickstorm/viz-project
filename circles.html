@@ -99,7 +99,7 @@
                 .attr("class", "tooltip")
                 .style("opacity", 0);
 
-        var color = d3.scale.category20c()
+        var color = d3.scale.category20c();
 
         var pack = d3.layout.pack()
                 .padding(2)
@@ -195,15 +195,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/">2012 LA City Spending</a>
+                    <a class="active navbar-brand" href="/">2012 LA City Spending</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Fund Name <span class="sr-only">(current)</span></a></li>
-                        <li><a href="/monthly.html">Monthly</a></li>
-                        <li><a href="/vendor.html">Vendor</a></li>
+                        <li  class="active"><a href="circles.html">Fund Name <span class="sr-only">(current)</span></a></li>
+                        <li><a href="monthly.html">Monthly</a></li>
+                        <li><a href="/gov_activity.html">Government Activity</a></li>
                     </ul>
                 </div>
             </div>
@@ -215,6 +215,7 @@
             </div>
         </div>
     </div>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
 
 </body>
 </html>

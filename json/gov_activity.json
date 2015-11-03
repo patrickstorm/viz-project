@@ -1,0 +1,37 @@
+[ {
+  "sum_dollar_amount" : "4936286635.25",
+  "government_activity" : "PENSION"
+}
+, {
+  "sum_dollar_amount" : "211062528.66",
+  "government_activity" : "FINANCIAL SERVICES"
+}
+, {
+  "sum_dollar_amount" : "1059349479.26",
+  "government_activity" : "COMMUNITY DEVELOPMENT"
+}
+, {
+  "sum_dollar_amount" : "720445042.93",
+  "government_activity" : "EXECUTIVE AND LEGISLATIVE"
+}
+, {
+  "sum_dollar_amount" : "434563469.95",
+  "government_activity" : "PUBLIC WORKS"
+}
+, {
+  "sum_dollar_amount" : "847182655.46",
+  "government_activity" : "PROTECTION OF PERSONS AND PROPERTY"
+}
+, {
+  "sum_dollar_amount" : "6845483694.49",
+  "government_activity" : "GENERAL GOVERNMENT"
+}
+, {
+  "sum_dollar_amount" : "14408766399.99",
+  "government_activity" : "TRANSPORTATION, COMMERCE AND ENTERPRISE"
+}
+, {
+  "sum_dollar_amount" : "432308587.26",
+  "government_activity" : "CULTURAL AND RECREATIONAL SERVICES"
+}
+]
