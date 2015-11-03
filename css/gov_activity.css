@@ -1,0 +1,10 @@
+.node {
+    padding: 8px;
+    color: #fff;
+    border: solid 1px white;
+    font: 10px sans-serif;
+    line-height: 12px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: 2px;
+}

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae4cbad-0cda-4905-b2f1-694764f5d593" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/json/vendor.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circles.html" afterPath="$PROJECT_DIR$/circles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/donut.js" afterPath="$PROJECT_DIR$/scripts/donut.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gov_activity.html" afterPath="$PROJECT_DIR$/gov_activity.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monthly.html" afterPath="$PROJECT_DIR$/monthly.html" />
     </list>
     <ignored path="viz-project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +56,8 @@
       <file leaf-file-name="circles.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/circles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.075472" vertical-offset="3119" max-vertical-offset="3842">
-              <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.2830188" vertical-offset="0" max-vertical-offset="867">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -63,31 +65,71 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="circles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/circles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="circles.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/circles.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1434" max-vertical-offset="2278">
+              <caret line="128" column="1" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="gov_activity.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gov_activity.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5471697" vertical-offset="473" max-vertical-offset="1870">
-              <caret line="42" column="38" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.8679247" vertical-offset="331" max-vertical-offset="1139">
+              <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monthly.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gov_activity.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/gov_activity.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gov_activity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/gov_activity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="monthly.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/monthly.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.528302" vertical-offset="17" max-vertical-offset="1411">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="33" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="799">
+              <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="donut.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="donut.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/donut.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.317757" vertical-offset="0" max-vertical-offset="2448">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            <state vertical-scroll-proportion="-3.7777777" vertical-offset="0" max-vertical-offset="2890">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,17 +147,21 @@
         <option value="$PROJECT_DIR$/json/fund_name.json" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/json/monthly.json" />
-        <option value="$PROJECT_DIR$/scripts/donut.js" />
         <option value="$PROJECT_DIR$/vendor-data.php" />
         <option value="$PROJECT_DIR$/json/test.json" />
         <option value="$PROJECT_DIR$/json/vendor.json" />
         <option value="$PROJECT_DIR$/json/vendor-small.json" />
         <option value="$PROJECT_DIR$/json/gov_activity.json" />
         <option value="$PROJECT_DIR$/vendor.html" />
-        <option value="$PROJECT_DIR$/monthly.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/gov_activity.html" />
+        <option value="$PROJECT_DIR$/scripts/donut.js" />
+        <option value="$PROJECT_DIR$/scripts/circles.js" />
+        <option value="$PROJECT_DIR$/css/circles.css" />
         <option value="$PROJECT_DIR$/circles.html" />
+        <option value="$PROJECT_DIR$/scripts/gov_activity.js" />
+        <option value="$PROJECT_DIR$/css/gov_activity.css" />
+        <option value="$PROJECT_DIR$/gov_activity.html" />
+        <option value="$PROJECT_DIR$/monthly.html" />
       </list>
     </option>
   </component>
@@ -170,6 +216,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viz-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viz-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viz-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="viz-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -221,7 +295,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -229,7 +303,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -358,36 +432,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monthly.html">
+    <entry file="file://$PROJECT_DIR$/scripts/donut.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.528302" vertical-offset="17" max-vertical-offset="1411">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="33" selection-end-column="10" />
+        <state vertical-scroll-proportion="-3.7777777" vertical-offset="0" max-vertical-offset="2890">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gov_activity.html">
+    <entry file="file://$PROJECT_DIR$/scripts/circles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5471697" vertical-offset="473" max-vertical-offset="1870">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1434" max-vertical-offset="2278">
+          <caret line="128" column="1" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/circles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/circles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.075472" vertical-offset="3119" max-vertical-offset="3842">
-          <caret line="218" column="0" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.2830188" vertical-offset="0" max-vertical-offset="867">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/donut.js">
+    <entry file="file://$PROJECT_DIR$/scripts/gov_activity.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.317757" vertical-offset="0" max-vertical-offset="2448">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gov_activity.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gov_activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8679247" vertical-offset="331" max-vertical-offset="1139">
+          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monthly.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="799">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
           <folding />
         </state>
       </provider>

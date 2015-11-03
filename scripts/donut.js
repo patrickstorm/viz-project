@@ -1,3 +1,29 @@
+$.getJSON( "json/monthly.json", function( data ) {
+    createGraph(data);
+});
+
+function createGraph(data){
+    var graphData = manipulateData(data);
+    graphIt(graphData);
+}
+
+var months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+function manipulateData(data){
+    var graphData = {}
+    $.each( data, function( key, val ) {
+        graphData[months[val['fiscal_month_number']-1]] = val['sum_dollar_amount'];
+    });
+    return graphData;
+}
+
+function graphIt(graphData){
+    var chart = donut()
+        .$el(d3.select("#chart"))
+        .data(graphData)
+        .render();
+}
+
 function donut(){
     // Default settings
     var $el = d3.select("body")
