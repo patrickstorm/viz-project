@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae4cbad-0cda-4905-b2f1-694764f5d593" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/circles.html" afterPath="$PROJECT_DIR$/circles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/donut.js" afterPath="$PROJECT_DIR$/scripts/donut.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gov_activity.html" afterPath="$PROJECT_DIR$/gov_activity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monthly.html" afterPath="$PROJECT_DIR$/monthly.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="viz-project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,14 +37,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="408">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.31903484" vertical-offset="0" max-vertical-offset="746">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -115,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="monthly.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="monthly.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/monthly.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="799">
+            <state vertical-scroll-proportion="-1.9245284" vertical-offset="0" max-vertical-offset="799">
               <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
               <folding />
             </state>
@@ -145,7 +142,6 @@
       <list>
         <option value="$PROJECT_DIR$/json/fund_type.json" />
         <option value="$PROJECT_DIR$/json/fund_name.json" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/json/monthly.json" />
         <option value="$PROJECT_DIR$/vendor-data.php" />
         <option value="$PROJECT_DIR$/json/test.json" />
@@ -162,6 +158,7 @@
         <option value="$PROJECT_DIR$/css/gov_activity.css" />
         <option value="$PROJECT_DIR$/gov_activity.html" />
         <option value="$PROJECT_DIR$/monthly.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -384,17 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/json/fund_name.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.456" vertical-offset="37007" max-vertical-offset="37757">
@@ -492,8 +478,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monthly.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14107884" vertical-offset="0" max-vertical-offset="799">
+        <state vertical-scroll-proportion="-1.9245284" vertical-offset="0" max-vertical-offset="799">
           <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31903484" vertical-offset="0" max-vertical-offset="746">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
