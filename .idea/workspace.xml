@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ae4cbad-0cda-4905-b2f1-694764f5d593" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="4ae4cbad-0cda-4905-b2f1-694764f5d593" name="Default" comment="" />
     <ignored path="viz-project.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -43,8 +41,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5241287" vertical-offset="0" max-vertical-offset="746">
-              <caret line="23" column="194" selection-start-line="23" selection-start-column="194" selection-end-line="23" selection-end-column="194" />
+            <state vertical-scroll-proportion="0.6152815" vertical-offset="0" max-vertical-offset="746">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -489,8 +487,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5241287" vertical-offset="0" max-vertical-offset="746">
-          <caret line="23" column="194" selection-start-line="23" selection-start-column="194" selection-end-line="23" selection-end-column="194" />
+        <state vertical-scroll-proportion="0.6152815" vertical-offset="0" max-vertical-offset="746">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
           <folding />
         </state>
       </provider>
